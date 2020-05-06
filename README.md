@@ -3,10 +3,10 @@
 
 Install
 ```
-typescript
-Jest Runner
-vscode-icons
-ts-jest
+typescript    https://www.typescriptlang.org/
+Jest Runner   https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner
+vscode-icons  https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+ts-jest       https://github.com/kulshekhar/ts-jest 
 ```
 
 Command line
