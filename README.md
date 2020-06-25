@@ -11,6 +11,7 @@ ts-jest       https://github.com/kulshekhar/ts-jest
 
 Command line
 ```
+npm install -g typescript
 npm install --save-dev jest
 npm i @types/jest
 
